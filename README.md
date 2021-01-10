@@ -1,6 +1,4 @@
 # java-games
-All the things that I'm learning about games using Java
+All the things that I'm learning how to do using Java.
 
-In this repository I'll put everything that I know and everything that I will learn about games with Java, such as sprite Animation, hitbox sistems, etc.
-
-I'm still learning how to use Github so if you have some hints, talk to me on my e-mail: pedroaugustoa47@gmail.com
+I'll put things that took me so much time to learn, so it will be things such as window creation using JFrame, sprite animation, etc. So I wish that I can help someone who is having the same problems I had.🙏🏻
