@@ -47,7 +47,7 @@ public class UsingUpdate extends Canvas implements Runnable{
         new Thread(test).start();
     }
     
-    //this is the game loop, it's a prety simple one just to make it work
+    //Game loop
     public void run() {
         while(true){
             //it's important to remind that the update method goes first ok?
