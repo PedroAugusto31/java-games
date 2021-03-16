@@ -36,6 +36,7 @@ public class Window extends Canvas{
     */
     public static void main(String [] args) {
         Window test = new Window();
+        
     }
 
     /*
