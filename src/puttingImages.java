@@ -30,6 +30,7 @@ public class puttingImages extends Canvas implements Runnable {
 
         try {
             //That's an image that I downloaded and I'll keep it on the folder "res".
+            //Generally that's how you must put the path.
             testImage = ImageIO.read(new File("src/res/coolImage.jpg"));
         } catch (IOException e) {
             e.printStackTrace();
@@ -95,6 +96,6 @@ public class puttingImages extends Canvas implements Runnable {
         bs.show();
     }
 
-    //I hope that I could help anyone, it was kinda hard to put this because ImageIO is too Unisntable, and I still
+    //I hope that I could help anyone, it was kinda hard to put this because ImageIO is too Unstable, and I still
     //got stuck for some time to get the right path.
 }
