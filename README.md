@@ -10,4 +10,4 @@ I'll put things that took me so much time to learn, so it will be things such as
   <li>How to put images on screen</li>
 </ul>
 
-So I wish I can help someone who is having the same problems I had.🙏🏻
+So I wish I can help someone who is having the same problems I had🙏🏻
